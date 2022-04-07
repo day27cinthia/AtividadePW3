@@ -1,0 +1,29 @@
+{
+  "name": "atividade-pwiii",
+  "version": "1.0.0",
+  "description": "trabalho-cristiano",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/day27cinthia/atividade-pwIII.git"
+  },
+  "keywords": [
+    "pwIII"
+  ],
+  "author": "Daiana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/day27cinthia/atividade-pwIII/issues"
+  },
+  "homepage": "https://github.com/day27cinthia/atividade-pwIII#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.15",
+    "sequelize": "^6.18.0"
+  }
+}
